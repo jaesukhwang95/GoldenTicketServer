@@ -1,4 +1,4 @@
-# GoldenTicket_project_server
+# GoldenTicket_Project_Server
 
 ## <**GoldenTicket**>
 
